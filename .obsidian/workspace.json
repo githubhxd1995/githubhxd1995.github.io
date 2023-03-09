@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39840e28a054a907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TeachYouselfCS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "TeachYouselfCS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "TeachYouselfCS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "TeachYouselfCS.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "83ebcea853e16956",
+  "active": "39840e28a054a907",
   "lastOpenFiles": [
+    "README.md",
+    "TeachYouselfCS.md",
     "(src).md",
-    "编程",
-    "README.md"
+    "编程"
   ]
 }
